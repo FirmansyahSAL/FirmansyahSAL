@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FirmansyahSAL
-- 👀 I’m interested in web develpoment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning php native,CI,laravel
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me syah.firman55@gmail.com
 
 <!---
