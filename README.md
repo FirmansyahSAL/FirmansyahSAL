@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FirmansyahSAL
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @FirmansyahSAL.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning php native,Codeigniter,laravel.
-- 📫 How to reach me syah.firman55@gmail.com
+- 📫 How to reach me syah.firman55@gmail.com.
 
 > Lifetime learner
 
